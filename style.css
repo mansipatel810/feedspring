@@ -1,0 +1,6 @@
+.shadowrealm{
+    position: absolute;
+    border-radius: 100%;
+    transform: translate(-50%,0%);
+    background: linear-gradient(to bottom, rgb(249, 249, 249), transparent );
+}
